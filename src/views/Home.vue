@@ -1,6 +1,6 @@
 t<template>
   <div class="container text-center">
-    <img class="img-fluid main-img rounded" src="../assets/logo.png" />
+    <img class="img-fluid main-img rounded" src="../assets/boulder-circle.png" />
 
     <div class="text-align-header mt-3">
       <h1>Create Your .boulder Account</h1>
