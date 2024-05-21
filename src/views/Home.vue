@@ -1,9 +1,9 @@
-<template>
+t<template>
   <div class="container text-center">
     <img class="img-fluid main-img rounded" src="../assets/logo.png" />
 
     <div class="text-align-header mt-3">
-      <h1>Mint BASIN</h1>
+      <h1>Create Your .boulder Account</h1>
     </div>
 
     <div class="d-flex justify-content-center domain-input-container mb-3 mt-5">
