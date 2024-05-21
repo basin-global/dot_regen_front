@@ -5,12 +5,12 @@
 
     <!--
     <p class="punchline">
-      BASIN
+      X
     </p>
     -->
 
     <p class="logo">
-      BASIN
+      X
     </p>
 
     <div class="flex flex-row justify-center space-x-4">
