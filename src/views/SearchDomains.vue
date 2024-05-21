@@ -10,7 +10,7 @@
 
         <div class="col-md-12 mb-3">
           <div class="container text-center">
-            <h3>Find an existing accounts</h3>
+            <h3>Find existing accounts</h3>
 
             <div class="row mt-5">
               <div class="col-md-6 offset-md-3">
