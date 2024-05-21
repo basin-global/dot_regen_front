@@ -9,11 +9,8 @@
     <router-link v-if="isUserMinterAdmin || isUserRoyaltyFeeUpdater || isUserTldAdmin" to="/admin">Admin</router-link>
     <span v-if="isUserMinterAdmin || isUserRoyaltyFeeUpdater || isUserTldAdmin"> | </span>
 
-    <a target="_blank" href="https://www.basin.global/">BASIN LLC</a> |
+    <a target="_blank" href="https://situs.ac/">Situs Protocol</a>
     
-    <a target="_blank" href="https://docs.basin.global/">Docs</a> |
-    
-    <a target="_blank" href="https://base.basin.global/">dApp</a>
   </div>
 
   <div class="container-fluid text-center">
