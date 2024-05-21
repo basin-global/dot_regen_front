@@ -1,6 +1,6 @@
-# .basin frontend
+# .boulder frontend
 
-Frontend for .basin accounts built on the [Situs Protocol](https://github.com/basin-global/SitusProtocolContracts).
+Frontend for .boulder accounts built on the [Situs Protocol](https://github.com/basin-global/SitusProtocolContracts).
 
 ## Quickstart
 
