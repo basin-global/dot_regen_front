@@ -81,7 +81,7 @@ t<template>
         <table class="table table-borderless table-ppl">
           <thead class="table-light">
             <tr>
-              <th scope="col">Domain length</th>
+              <th scope="col">Account Name Length</th>
               <th scope="col">Price</th>
             </tr>
           </thead>
