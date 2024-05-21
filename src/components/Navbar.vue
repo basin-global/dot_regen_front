@@ -3,7 +3,7 @@
     <div class="container-fluid">
       <router-link to="/" class="navbar-brand">
         <img src="../assets/logo.png" alt="" width="30" class="d-inline-block align-middle navbar-img">
-        BASIN
+        .BOULDER
       </router-link>
 
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -36,12 +36,12 @@
               </button>
               <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton2">
                 <router-link tag="li" class="dropdown-item" to="/profile">Profile</router-link>
-                <router-link tag="li" class="dropdown-item" to="/">Buy .BASIN</router-link>
-                <router-link tag="li" class="dropdown-item" to="/search-domain">Search BASIN's</router-link>
+                <router-link tag="li" class="dropdown-item" to="/">Get Account</router-link>
+                <router-link tag="li" class="dropdown-item" to="/search-domain">Search Situs's</router-link>
                 <router-link tag="li" class="dropdown-item" to="/send-tokens">Send tokens</router-link>
-                <router-link tag="li" class="dropdown-item" to="/about">About</router-link>
+                <!-- <router-link tag="li" class="dropdown-item" to="/about">About</router-link> -->
                 <!-- <router-link tag="li" class="dropdown-item" to="/browser">Browser extension</router-link> -->
-                <li class="dropdown-item" @click="openUrl('https://docs.basin.global/')">Docs</li>
+                <!-- <li class="dropdown-item" @click="openUrl('url-here')">Docs</li> -->
                 <li class="dropdown-item" @click="logout">Disconnect</li>
               </ul>
             </div>
