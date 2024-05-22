@@ -31,13 +31,13 @@ t<template>
 
     <div class="text-align-header">
       <p class="mt-5 price-text">
-          Domain price: {{Number(getPrice).toFixed(4)}} {{getPaymentTokenName}}
+          Name price: {{Number(getPrice).toFixed(4)}} {{getPaymentTokenName}}
       </p>
     </div>
 
     <!-- Minter contract paused -->
     <button v-if="isActivated && getMinterPaused" class="btn btn-primary btn-lg mt-3 buy-button" :disabled="true">
-      <span v-if="getMinterPaused">Buying paused</span>
+      <span v-if="getMinterPaused">Buying Paused</span>
     </button>
 
     <!-- Not eligible -->
@@ -82,7 +82,7 @@ t<template>
           <thead class="table-light">
             <tr>
               <th scope="col">Account Name Length</th>
-              <th scope="col">Price</th>
+              <th scope="col">One Time Price</th>
             </tr>
           </thead>
           <tbody>
