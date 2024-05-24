@@ -114,7 +114,7 @@ t<template>
     <div class="text-align-header mt-3">
       <h1>All proceeds fund place-based regeneration!</h1>
     </div>
-    <div style="width: 75vw; max-width: 100%; margin: 0 auto; padding: 0;" class="text-center">
+    <div style="width: 50vw; max-width: 100%; margin: 0 auto; padding: 0;" class="text-center">
   <img style="width: 100%; height: auto;" class="main-img rounded" src="../assets/situs-funding-flow.png" />
 </div>
 
