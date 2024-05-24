@@ -15,9 +15,9 @@
 
   <div class="container-fluid text-center">
 
-    <a class="icons" target="_blank" href="https://github.com/basin-global"><i class="bi bi-github"></i></a>
+    <a class="icons" target="_blank" href="https://github.com/basin-global/Situs-Protocol-Contracts"><i class="bi bi-github"></i></a>
 
-    <a class="icons" target="_blank" href="https://twitter.com/dot_basin"><i class="bi bi-twitter"></i></a>
+    <a class="icons" target="_blank" href="https://warpcast.com/~/channel/situs"><i class="bi bi-warpcast"></i></a>
     
   </div>
 </template>
