@@ -112,6 +112,12 @@ t<template>
     </div>
     
   </div>
+  <div class="container text-center">
+    <div class="text-align-header mt-3">
+      <h1>All proceeds fund place-based regeneration!</h1>
+    </div>
+    <img class="img-fluid main-img rounded" src="../assets/situs-funding-flow.png" />
+</div>
 
   <Referral v-if="isActivated" />
 
