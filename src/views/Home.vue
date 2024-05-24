@@ -3,7 +3,7 @@ t<template>
     <img class="img-fluid main-img rounded" src="../assets/boulder-circle.png" />
 
     <div class="text-align-header mt-3">
-      <h1>Create Your .boulder Account</h1>
+      <h1>Get your .boulder onchain account:</h1>
     </div>
 
     <div class="d-flex justify-content-center domain-input-container mb-3 mt-5">
@@ -46,7 +46,7 @@ t<template>
       class="btn btn-primary btn-lg mt-3 buy-button" 
       :disabled="waiting || buyNotValid(chosenDomainName).invalid || !hasUserEnoughTokens"
     >
-      <span>You need to own all three Dishes NFTs</span>
+      <span>You need to own the right tokens</span>
     </button>
 
     <!-- Too low ETH balance -->
@@ -110,17 +110,16 @@ t<template>
         </table>
       </div>
     </div>
-    
-  </div>
-  <div class="container text-center">
+  
     <div class="text-align-header mt-3">
       <h1>All proceeds fund place-based regeneration!</h1>
     </div>
-    <img class="img-fluid main-img rounded" src="../assets/situs-funding-flow.png" />
-</div>
+    <div style="width: 100vw; max-width: 100%; margin-left: 0; margin-right: 0; padding-left: 0; padding-right: 0;" class="text-center">
+      <img style="width: 100%; height: auto;" class="main-img rounded" src="../assets/situs-funding-flow.png" />
+    </div>
+  </div> <!-- Close the main container text-center div here -->
 
   <Referral v-if="isActivated" />
-
 </template>
 
 <script>
