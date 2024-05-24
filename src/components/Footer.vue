@@ -14,12 +14,26 @@
   </div>
 
   <div class="container-fluid text-center">
+    <!-- GitHub icon (already using Bootstrap icons) -->
+    <a class="icons" target="_blank" href="https://github.com/basin-global/Situs-Protocol-Contracts">
+        <i class="bi bi-github"></i>
+    </a>
 
-    <a class="icons" target="_blank" href="https://github.com/basin-global/Situs-Protocol-Contracts"><i class="bi bi-github"></i></a>
+    <!-- Warpcast custom icon -->
+    <a class="icons" target="_blank" href="https://warpcast.com/~/channel/situs">
+        <img src="../assets/icons/warpcast-icon.png" alt="Warpcast" style="width: 24px; height: 24px;"> <!-- Adjust the path and size as needed -->
+    </a>
 
-    <a class="icons" target="_blank" href="https://warpcast.com/~/channel/situs"><i class="bi bi-warpcast"></i></a>
-    
-  </div>
+    <!-- Rarible custom icon -->
+    <a class="icons" target="_blank" href="https://rarible.com/collection/base/0xd93f89217fcf5f51414e90f62cfe7eeb549a13bc/items">
+        <img src="../assets/icons/rarible-icon.png" alt="Rarible" style="width: 24px; height: 24px;"> <!-- Adjust the path and size as needed -->
+    </a>
+
+    <!-- OpenSea custom icon -->
+    <a class="icons" target="_blank" href="https://opensea.io/assets/base/0xd93f89217fcf5f51414e90f62cfe7eeb549a13bc">
+        <img src="../assets/icons/opensea-icon.png" alt="OpenSea" style="width: 24px; height: 24px;"> <!-- Adjust the path and size as needed -->
+    </a>
+</div>
 </template>
 
 <script>
