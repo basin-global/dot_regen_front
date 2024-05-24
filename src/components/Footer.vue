@@ -14,9 +14,9 @@
   </div>
 
   <div class="container-fluid text-center">
-    <!-- GitHub icon (already using Bootstrap icons) -->
+    <!-- Github custom icon -->
     <a class="icons" target="_blank" href="https://github.com/basin-global/Situs-Protocol-Contracts">
-        <i class="bi bi-github" style="font-size: 32px;"></i>
+        <img src="../assets/icons/github-icon.png" alt="Github" style="width: 32px; height: 32px;"> <!-- Adjust the path and size as needed -->
     </a>
 
     <!-- Warpcast custom icon -->
