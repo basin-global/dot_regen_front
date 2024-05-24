@@ -114,9 +114,10 @@ t<template>
     <div class="text-align-header mt-3">
       <h1>All proceeds fund place-based regeneration!</h1>
     </div>
-    <div style="width: 100vw; max-width: 100%; margin-left: 0; margin-right: 0; padding-left: 0; padding-right: 0;" class="text-center">
-      <img style="width: 100%; height: auto;" class="main-img rounded" src="../assets/situs-funding-flow.png" />
-    </div>
+    <div style="width: 75vw; max-width: 100%; margin: 0 auto; padding: 0;" class="text-center">
+  <img style="width: 100%; height: auto;" class="main-img rounded" src="../assets/situs-funding-flow.png" />
+</div>
+
   </div> <!-- Close the main container text-center div here -->
 
   <Referral v-if="isActivated" />
