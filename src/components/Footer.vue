@@ -20,7 +20,7 @@
     </a>
     
     <!-- Github custom icon -->
-    <a class="icons" target="_blank" href="https://github.com/basin-global/Situs-Protocol-Contracts">
+    <a class="icons" target="_blank" href="https://github.com/basin-global/Situs-Protocol">
         <img src="../assets/icons/github-icon.png" alt="Github" style="width: 32px; height: 32px;"> <!-- Adjust the path and size as needed -->
     </a>
 
