@@ -10,12 +10,12 @@ export default {
   
   state: () => ({ 
     discountPercentage: 0,
-    tldName: ".boulder",
-    tldAddress: "0xd93F89217FcF5F51414e90F62CFe7EeB549a13bc", // TODO
+    tldName: ".regen",
+    tldAddress: "0x3f06d9Abaa7EeF71A4f8017dc24cd6bb38Fd779d", // TODO
     tldContract: null,
     tldChainId: 8453,
     tldChainName: "Base",
-    minterAddress: "0x50dC7EBd1549ddcbb56C3aa529EF389466062Ee3", // TODO
+    minterAddress: "0xc8025cb1FD593C2C8DFE195C1E16f85580fc9e26", // TODO
     minterContract: null,
     minterPaused: true,
     minterTldPrice1: 0.50,
