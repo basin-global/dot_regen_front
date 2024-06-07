@@ -1,6 +1,6 @@
-# .boulder frontend
+# .regen frontend
 
-Frontend for .boulder accounts built on the [Situs Protocol](https://github.com/basin-global/SitusProtocolContracts).
+Frontend for .regen onchain accounts built on the [Situs Protocol](https://github.com/basin-global/SitusProtocolContracts).
 
 ## Quickstart
 
