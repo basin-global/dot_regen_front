@@ -25,17 +25,17 @@
     </a>
 
     <!-- Rarible custom icon -->
-    <a class="icons" target="_blank" href="https://rarible.com/collection/base/0xd93f89217fcf5f51414e90f62cfe7eeb549a13bc/items">
+    <a class="icons" target="_blank" href="https://rarible.com/collection/base/0x3f06d9Abaa7EeF71A4f8017dc24cd6bb38Fd779d/items">
         <img src="../assets/icons/rarible-icon.png" alt="Rarible" style="width: 32px; height: 32px;"> <!-- Adjust the path and size as needed -->
     </a>
 
     <!-- OpenSea custom icon -->
-    <a class="icons" target="_blank" href="https://opensea.io/assets/base/0xd93f89217fcf5f51414e90f62cfe7eeb549a13bc">
+    <a class="icons" target="_blank" href="https://opensea.io/assets/base/0x3f06d9Abaa7EeF71A4f8017dc24cd6bb38Fd779d">
         <img src="../assets/icons/opensea-icon.png" alt="OpenSea" style="width: 32px; height: 32px;"> <!-- Adjust the path and size as needed -->
     </a>
 
     <!-- Basescan custom icon -->
-    <a class="icons" target="_blank" href="https://basescan.org/token/0xd93f89217fcf5f51414e90f62cfe7eeb549a13bc">
+    <a class="icons" target="_blank" href="https://basescan.org/token/0x3f06d9Abaa7EeF71A4f8017dc24cd6bb38Fd779d">
         <img src="../assets/icons/basescan-icon.png" alt="Basescan" style="width: 32px; height: 32px;"> <!-- Adjust the path and size as needed -->
     </a>
 </div>
