@@ -1,9 +1,9 @@
 t<template>
   <div class="container text-center">
-    <img class="img-fluid main-img rounded" src="../assets/boulder-circle.png" />
+    <img class="img-fluid main-img rounded" src="../assets/regen-circle.png" />
 
     <div class="text-align-header mt-3">
-      <h1>Get your .boulder onchain account:</h1>
+      <h1>Get your .regen onchain account:</h1>
     </div>
 
     <div class="d-flex justify-content-center domain-input-container mb-3 mt-5">
